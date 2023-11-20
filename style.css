@@ -3,7 +3,7 @@ body{
     overflow: hidden;
 }
 .navbar {
-    position: sticky;
+    position: absolute;
     top: 0;
     width: 100%;
     background-color: #333;
